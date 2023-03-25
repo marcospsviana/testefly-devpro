@@ -1,6 +1,6 @@
 # fly.toml file generated for testedevpro on 2022-11-25T22:52:58-03:00
 
-app = "testedevpro"
+app = "devprofly"
 kill_signal = "SIGINT"
 kill_timeout = 5
 processes = []
